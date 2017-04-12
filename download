@@ -1,6 +1,6 @@
 {
-  "version": "3.930",
+  "version": "3.931",
   "link": "https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
-  "adblock_version": "10",
-  "short_description": "ChromeCast support, Reddit Discussions added, KissAnime, MasterAnime & 9Anime improved"
+  "adblock_version": "11",
+  "short_description": "Now Watch 9Anime without a MyAnimeList account! Also fixed KissAnime not loading"
 }

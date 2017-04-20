@@ -4,7 +4,7 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 [**DOWNLOAD THE APP HERE!!!**](https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk)
 
 
-![alt tag](https://github.com/zunjae/anYme/blob/master/cover.png?raw=true)
+![alt tag](http://i.imgur.com/QGcHhoo.png)
 
 
 # Features

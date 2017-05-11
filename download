@@ -1,6 +1,6 @@
 {
-  "version": "3.931",
+  "version": "3.932",
   "link": "https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
   "adblock_version": "11",
-  "short_description": "Now Watch 9Anime without a MyAnimeList account! Also fixed KissAnime not loading"
+  "short_description": "Find similar anime, new calendar screen and fixed videos not playing"
 }

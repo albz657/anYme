@@ -32,6 +32,7 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 ## Powered By:
 
 * ZimpleDB
+* [ZRecyclerWrapper](https://github.com/zunjae/ZRecyclerWrapper)
 * MaterialDrawer
 * Glide
 * ButterKnife

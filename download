@@ -1,7 +1,8 @@
 {
-   "version":"3.933",
-   "link":"https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
-   "adblock_version":"12",
-   "browser_version":"3",
-   "short_description":"Fixed 9Anime and added lots of features. Check /r/anYme"
+	"version": "3.934",
+	"link": "https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
+	"adblock_version": "13",
+	"browser_version": "3",
+	"nsfw_filter_version": "4",
+	"short_description": "Lots of new features. Check /r/anYme for more details"
 }

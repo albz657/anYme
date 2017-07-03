@@ -4,14 +4,16 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 [**DOWNLOAD THE APP HERE!!!**](https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk)
 
 
-![image](http://i.imgur.com/KG5y2YJ.jpg)
+![](https://i.imgur.com/T2x8UDW.png)
 
 
 # Features
 
 * Download and Stream Anime
 * Cast Anime with ChromeCast device
+  * This will be done through LocalCast, Web Video Cast, AllCast or All Screen
 * Synchronize with MyAnimeList
+* Read information about an anime such as their genres, release date, characters etc.
 * Built-in AdBlocker which blocks annoying ads and trackers
 * Discover, add and update your Anime
 * Don't know what to watch, use the Random Anime button
@@ -20,10 +22,12 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 * See the schedule of your favorite Anime
 * Skip opening music for an Anime
 
+and more...
+
 
 ## Things you should know
 
-* The app only requires the Internet Permission
+* The app requires no permissions which can access your personal files, so rest assured.
 * There is a setting page where you can customize parts of the app
 * This is a community-driven app. I'll add features which you can request on www.reddit.com/r/anYme. If there is something you don't like, make sure you message me.
 * Android 4.0.4 or greater is required
@@ -34,6 +38,7 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 * ZimpleDB
 * [ZRecyclerWrapper](https://github.com/zunjae/ZRecyclerWrapper)
 * [ZPagerWrapper](https://github.com/zunjae/ZPagerWrapper)
+* [ZAsync](https://github.com/zunjae/ZAsync)
 * MaterialDrawer
 * Glide
 * ButterKnife

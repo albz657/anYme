@@ -10,7 +10,7 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 # Features
 
 * Download and Stream Anime
-* Cast Anime with ChromeCast device
+* Cast Anime
   * This will be done through LocalCast, Web Video Cast, AllCast or All Screen
 * Synchronize with MyAnimeList
 * Read information about an anime such as their genres, release date, characters etc.
@@ -30,7 +30,7 @@ and more...
 * The app requires no permissions which can access your personal files, so rest assured.
 * There is a setting page where you can customize parts of the app
 * This is a community-driven app. I'll add features which you can request on www.reddit.com/r/anYme. If there is something you don't like, make sure you message me.
-* Android 4.0.4 or greater is required
+* Android 4.0.4 or greater is required. To actually watch video's it's recommended to have Android 5 or greater.
 * I am still a junior Android Dev. If you have any ideas to improve the app, feel free to message me
 
 ## Powered By:
